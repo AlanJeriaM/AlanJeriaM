@@ -69,16 +69,22 @@
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
 </span>
 
+
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Estadísticas de GitHub
 
-<br/>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AlanJeriaM&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanJeriaM&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
+<!-- Versión para Desktop: lado a lado -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AlanJeriaM&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanJeriaM&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
