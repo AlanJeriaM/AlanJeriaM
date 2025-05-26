@@ -23,15 +23,6 @@
 - 🎮 Fuera del mundo tech, disfruto ver transmisiones en plataformas como Twitch y Kick, además de jugar videojuegos (principalmente Call of Duty y FIFA), escuchar música 🎵 y practicar running.
 - :email: Contáctame en: <a href="mailto:alan.jeria@alumnos.uv.cl">alan.jeria@alumnos.uv.cl</a>
 
-</td>
-<td width="30%" align="center">
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" style="max-width: 100%; height: auto;"/>
-
-</td>
-</tr>
-</table>
-
 <br>
 
 ## Skills
