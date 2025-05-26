@@ -13,6 +13,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<br>
 
 <p>Soy tesista de Ingeniería Civil en Informática en la Universidad de Valparaíso, Chile. Actualmente estoy profundizando mis conocimientos en desarrollo tanto front-end como back-end. Me apasiona aprender constantemente y crear soluciones nuevas, productivas, innovadoras y creativas.</p>
 
