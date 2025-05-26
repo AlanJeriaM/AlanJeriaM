@@ -8,21 +8,29 @@
 <hr>
 <h1 align="center">Hi, I'm Alan Jeria <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<!--Sobre mí-->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí
+<!-- OPCIÓN 2: Layout con tabla que se adapta mejor -->
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí (Versión alternativa)
 
-<!-- OPCIÓN 1: Imagen arriba en móviles, a la derecha en desktop -->
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" style="max-width: 100%; height: auto; margin-bottom: 20px;"/>
-</div>
+<table>
+<tr>
+<td width="70%" valign="top">
 
-<p align="justify">Soy tesista de Ingeniería Civil en Informática en la Universidad de Valparaíso, Chile. Actualmente estoy profundizando mis conocimientos en desarrollo tanto front-end como back-end. Me apasiona aprender constantemente y crear soluciones nuevas, productivas, innovadoras y creativas.</p>
+**Soy tesista de Ingeniería Civil en Informática en la Universidad de Valparaíso, Chile.** Actualmente estoy profundizando mis conocimientos en desarrollo tanto front-end como back-end. Me apasiona aprender constantemente y crear soluciones nuevas, productivas, innovadoras y creativas.
 
 - :nerd_face: Me apasiona ofrecer soluciones digitales a emprendedores y pymes que están comenzando o que quieren digitalizarse en el mundo web.
 - :technologist: Actualmente he desarrollado algunas soluciones para emprendedores.
 - :boom: Puedes visitar mi portfolio en el siguiente [sitio web](https://github.com/AlanJeriaM/)
 - 🎮 Fuera del mundo tech, disfruto ver transmisiones en plataformas como Twitch y Kick, además de jugar videojuegos (principalmente Call of Duty y FIFA), escuchar música 🎵 y practicar running.
 - :email: Contáctame en: <a href="mailto:alan.jeria@alumnos.uv.cl">alan.jeria@alumnos.uv.cl</a>
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" style="max-width: 100%; height: auto;"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
