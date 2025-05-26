@@ -9,13 +9,14 @@
 <h1 align="center">Hi, I'm Alan Jeria <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <!--Sobre mí-->
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<!-- OPCIÓN 1: Imagen arriba en móviles, a la derecha en desktop -->
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" style="max-width: 100%; height: auto; margin-bottom: 20px;"/>
+</div>
 
-
-<p>Soy tesista de Ingeniería Civil en Informática en la Universidad de Valparaíso, Chile. Actualmente estoy profundizando mis conocimientos en desarrollo tanto front-end como back-end. Me apasiona aprender constantemente y crear soluciones nuevas, productivas, innovadoras y creativas.</p>
+<p align="justify">Soy tesista de Ingeniería Civil en Informática en la Universidad de Valparaíso, Chile. Actualmente estoy profundizando mis conocimientos en desarrollo tanto front-end como back-end. Me apasiona aprender constantemente y crear soluciones nuevas, productivas, innovadoras y creativas.</p>
 
 - :nerd_face: Me apasiona ofrecer soluciones digitales a emprendedores y pymes que están comenzando o que quieren digitalizarse en el mundo web.
 - :technologist: Actualmente he desarrollado algunas soluciones para emprendedores.
