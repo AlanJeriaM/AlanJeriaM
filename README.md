@@ -81,19 +81,17 @@
 </div>
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Contribuciones en gráfico</h2>
+<h2>📊 Gráfico de contribuciones con relleno de área</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanJeriaM&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
-
-
 
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🐍 Gráficos de contribuciones
+## 🐍 Gráficos de contribuciones animación Snake
 	
 <p align="center">
   <img src="https://github.com/AlanJeriaM/AlanJeriaM/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
