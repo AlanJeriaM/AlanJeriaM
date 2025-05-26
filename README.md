@@ -80,7 +80,7 @@
   </table>
 </div>
 
-<h2>📊 Gráfico de contribuciones con relleno de área (tono azul)</h2>
+<h2>📊 Gráfico de contribuciones con relleno de área</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanJeriaM&bg_color=f0f4f8&color=90CAF9&line=2196F3&point=E91E63&area=true&hide_border=false" style="border-radius: 15px;">
 </div>
