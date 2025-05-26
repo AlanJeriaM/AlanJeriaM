@@ -55,8 +55,6 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Estadísticas de GitHub
 
-## My Statistics
-
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
