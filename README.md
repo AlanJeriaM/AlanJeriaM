@@ -92,3 +92,9 @@
 <p align="center">
   <img src="https://github.com/AlanJeriaM/AlanJeriaM/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
+
+<!-- FOOTER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=gradient&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
