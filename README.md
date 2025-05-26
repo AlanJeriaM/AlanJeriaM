@@ -80,16 +80,11 @@
   </table>
 </div>
 
-<!--Contribution Graph-->
-<h2>📊 Gráfico de contribuciones con relleno de área</h2>
+<h2>📊 Gráfico de contribuciones con relleno de área (tono azul)</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanJeriaM&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanJeriaM&bg_color=f0f4f8&color=90CAF9&line=2196F3&point=E91E63&area=true&hide_border=false" style="border-radius: 15px;">
 </div>
 
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## 🐍 Gráficos de contribuciones animación Snake
 	
@@ -101,4 +96,15 @@
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=gradient&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
+</div>
+
+<div align="center">
+  <h3>💫 ¡Gracias por visitar mi perfil! 💫</h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=AlanJeriaM&label=Profile%20views&color=0e75b6&style=flat" alt="Vistas" />
+  </p>
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
