@@ -23,7 +23,7 @@
 
 - :nerd_face: Me apasiona ofrecer soluciones digitales a emprendedores y pymes que están comenzando o que quieren digitalizarse en el mundo web.
 - :technologist: Actualmente he desarrollado algunas soluciones para emprendedores.
-- :boom: Puedes visitar mi portfolio en el siguiente [sitio web](https://github.com/AlanJeriaM/)
+- :boom: Puedes visitar mi portfolio en el siguiente [sitio web](https://alanjeriam.github.io/myportfolio/)
 - 🎮 Fuera del mundo tech, disfruto ver transmisiones en plataformas como Twitch y Kick, además de jugar videojuegos (principalmente Call of Duty y FIFA), escuchar música 🎵 y practicar running.
 - :email: Contáctame en: <a href="mailto:alan.jeria@alumnos.uv.cl">alan.jeria@alumnos.uv.cl</a>
 
