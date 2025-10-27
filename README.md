@@ -25,7 +25,7 @@
 - :technologist: Actualmente he desarrollado algunas soluciones para emprendedores.
 - :boom: Puedes visitar mi portfolio en el siguiente <a href="https://alanjeriam.github.io/myportfolio/" target="_blank" rel="noopener noreferrer">sitio web</a>
 - 🎮 Fuera del mundo tech, disfruto ver transmisiones en plataformas como Twitch y Kick, además de jugar videojuegos (principalmente Call of Duty y FIFA), escuchar música 🎵 y practicar running.
-- :email: Contáctame en: <a href="mailto:alan.jeria@alumnos.uv.cl">alan.jeria@alumnos.uv.cl</a>
+- :email: Contáctame en: <a href="mailto:alanjeria01@gmail.com">alanjeria01@gmail.com</a>
 
 <br>
 
