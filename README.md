@@ -6,9 +6,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&width=370&height=100&lines=Hi+%2C+I'm+Alan+Jeria+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
+
 
 
 
